@@ -15,16 +15,16 @@ O objetivo foi desenvolver um **formulário de cadastro de membros**, utilizando
 ## ✨ Funcionalidades
 
 - Formulário com os seguintes campos:
-  - Nome completo (obrigatório) 🗣️
-  - E-mail (obrigatório, com validação) 📧
-  - Telefone (obrigatório) 📞
-  - Cargo pretendido (seleção de lista pré-definida) 🧑‍💻
-  - LinkedIn (opcional) 🌐
-  - GitHub (opcional) 🐙
-- Validação de dados utilizando **Zod** ✅
-- Armazenamento de cadastros no **localStorage** 💾
-- Mensagens de sucesso ou erro ao cadastrar 🗨️
-- Layout **responsivo** e limpo utilizando **Tailwind CSS** 🎨
+  - Nome completo (obrigatório) 
+  - E-mail (obrigatório, com validação) 
+  - Telefone (obrigatório) 
+  - Cargo pretendido (seleção de lista pré-definida) 
+  - LinkedIn (opcional) 
+  - GitHub (opcional) 
+- Validação de dados utilizando **Zod** 
+- Armazenamento de cadastros no **localStorage**
+- Mensagens de sucesso ou erro ao cadastrar 
+- Layout **responsivo** e limpo utilizando **Tailwind CSS** 
 - Boas práticas de acessibilidade
 
 ## Tecnologias Utilizadas
